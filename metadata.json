@@ -1,0 +1,7 @@
+{
+  "name": "ScamShield Live",
+  "description": "Real-time cybersecurity platform providing explainable risk analysis and threat detection for suspicious messages, URLs, QR codes, and screenshots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
